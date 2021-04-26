@@ -1,13 +1,3 @@
-# game-typer
-desenvolvimento de game web. 
+# alura-typer
+Mini project: A type racer like game
 
-Game-typer/
-├── public
-│   ├── css
-│   │   └── estilos.css
-│   ├── fonts
-│   ├── img
-│   ├── js
-│   │   └── jquery.js
-│   └── principal.html
-└── servidor
